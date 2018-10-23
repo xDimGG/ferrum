@@ -1,0 +1,19 @@
+{
+  "name": "ferrum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xDimGG/ferrum.git",
+  "author": "xDimGG <skyuphigh01@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "eslintConfig": {
+    "extends": "lloti"
+  },
+  "dependencies": {
+    "discord-akairo": "1Computer1/discord-akairo",
+    "discord.js": "discordjs/discord.js"
+  },
+  "devDependencies": {
+    "eslint-config-lloti": "xdimgg/eslint-config-lloti"
+  }
+}
